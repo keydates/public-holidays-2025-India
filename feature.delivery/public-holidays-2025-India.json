@@ -1,0 +1,60 @@
+{
+  "product": "India Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of India",
+      "product": "India Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Republic Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-26T12:00:00",
+      "endDate": "2025-01-26T12:00:00",
+      "source": "Government of India",
+      "product": "India Public Holidays 2025",
+      "style": "orange",
+      "description": "Celebration of the adoption of the Indian Constitution"
+    },
+    {
+      "title": "Holi",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-03-10T12:00:00",
+      "endDate": "2025-03-10T12:00:00",
+      "source": "Government of India",
+      "product": "India Public Holidays 2025",
+      "style": "pink",
+      "description": "Festival of colors and love"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-15T12:00:00",
+      "endDate": "2025-08-15T12:00:00",
+      "source": "Government of India",
+      "product": "India Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of India's independence from British rule"
+    },
+    {
+      "title": "Diwali",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-14T12:00:00",
+      "endDate": "2025-11-14T12:00:00",
+      "source": "Government of India",
+      "product": "India Public Holidays 2025",
+      "style": "yellow",
+      "description": "Festival of lights"
+    }
+  ]
+}
